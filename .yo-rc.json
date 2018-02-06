@@ -1,0 +1,6 @@
+{
+  "generator-react-atomic": {
+    "directory": "src/components/core",
+    "stylePreference": "styledComponents"
+  }
+}

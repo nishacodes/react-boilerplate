@@ -2,8 +2,8 @@ import React from 'react';
 import { render } from 'react-dom'
 import { Provider } from 'react-redux'
 import { ConnectedRouter } from 'react-router-redux'
-import store, { history } from './redux/store'
-import App from './core/components/app/App'
+import store, { history } from './reducers/store'
+import App from './components/core/app/App'
 import registerServiceWorker from './registerServiceWorker';
 
 const target = document.querySelector('#root')

@@ -5,7 +5,7 @@ import { connect } from 'react-redux'
 import autobind from 'autobind-decorator';
 import {
   increment
-} from '../../../redux/sample/actions'
+} from '../../../reducers/sample/actions'
 
 class Home extends Component {
 
