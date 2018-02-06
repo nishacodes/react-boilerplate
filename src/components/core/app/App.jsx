@@ -4,7 +4,7 @@ import Home from '../pages/Home'
 import About from '../pages/About'
 
 /** This component gets mounted from the main index.js **/
-class App extends Component {
+class App extends React.Component {
   render() {
     return (
       <div>
