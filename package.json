@@ -22,5 +22,8 @@
   },
   "standard": {
     "parser": "babel-eslint"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-class-properties": "^6.24.1"
   }
 }
